@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="常用的包">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../library/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library/sitemesh-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library/jquery-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
