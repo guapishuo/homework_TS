@@ -33,8 +33,8 @@
             <td><%=car.getPrice()%></td>
             <td>
                 <a  href="<c:url value="/add" />">添加</a>
-                <a href="/update?id=<%=car.getId() %>">更新</a>
-                <a href="/del?id=<%=car.getId() %>">删除</a>
+                <a  href="/update?id=<%= car.getId()%>">更新</a>
+                <a  href="/del?id=<%=car.getId() %>">删除</a>
             </td>
 
         </tr>
@@ -43,6 +43,8 @@
         %>
        </table>
     </form>
+
+
 <script src="/assets/js/bootstrap.js"  crossorigin="anonymous"></script>
 <script src="/assets/js/car_js.js"  crossorigin="anonymous"></script>
 <script src="/assets/js/car_js1.js"  crossorigin="anonymous"></script>

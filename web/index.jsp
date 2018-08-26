@@ -3,7 +3,7 @@
 <html>
   <head>
     <title>车城</title>
-    <meta http-equiv="refresh" content="6;url=/index" name="" content="" />
+    <meta http-equiv="refresh" content="6;h" name="" content="" />
     <link href="/assets/css/datouwang.css" rel="stylesheet" type="text/css">
 
   </head>

@@ -12,7 +12,7 @@
 
 <%= WebUtil.popSessionMsg(request) %>
 
-<h1><%=car.getName()%></h1>
+<h1>详情</h1>
 <ul class="list-group">
     <li class="list-group-item"><%=car.getBrand()%></li>
     <li class="list-group-item"><%=car.getName()%></li>

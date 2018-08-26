@@ -10,49 +10,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc2fd734-0158-4c0b-aa4d-ff8d83fd8ec7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/.idea/artifacts/CarStore_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/.idea/libraries/.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/dao/CarDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/dao/CarIn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/entity/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/session/DBSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/session/MemorySession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/session/MySession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/session/SessionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/util/WebUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/web/CarAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/web/CarDel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/web/CarDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/web/CarList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/web/CarSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/src/web/CarUpdate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/css/car_css1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/css/car_css2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/css/datouwang.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/js/car_js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/js/car_js1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/js/car_js3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/assets/js/jquery-1.11.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/jsp/CarAdd.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/jsp/CarDetail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/jsp/CarList.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/jsp/CarUpdate.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/layout/CarBody.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_TanShuo/web/layout/Car_Head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/.idea/artifacts/CarStore_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/.idea/libraries/.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/css/car_css1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/css/car_css2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/css/datouwang.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/js/car_js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/js/car_js1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/js/car_js3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/assets/js/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/jsp/CarAdd.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/jsp/CarDetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/jsp/CarList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/jsp/CarUpdate.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/layout/CarBody.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/out/artifacts/CarStore_war_exploded/layout/Car_Head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/dao/CarDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/dao/CarIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/entity/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/session/DBSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/session/MemorySession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/session/MySession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/session/SessionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/util/WebUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/web/CarAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/web/CarDel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/web/CarDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/web/CarList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/web/CarSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/src/web/CarUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/css/car_css1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/css/car_css2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/css/datouwang.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/js/car_js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/js/car_js1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/js/car_js3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/assets/js/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/jsp/CarAdd.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/jsp/CarDetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/jsp/CarList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/jsp/CarUpdate.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/layout/CarBody.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_TS/web/layout/Car_Head.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +89,7 @@
     <session id="-1337489864">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.101" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -76,29 +100,31 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="6" />
-          <entry key="java" value="72" />
+          <entry key="java" value="73" />
           <entry key="js" value="9" />
-          <entry key="jsp" value="37" />
+          <entry key="jsp" value="42" />
           <entry key="rnc" value="1" />
-          <entry key="xml" value="15" />
+          <entry key="xml" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="6" />
-          <entry key="JAVA" value="72" />
-          <entry key="JSP" value="37" />
+          <entry key="JAVA" value="73" />
+          <entry key="JSP" value="42" />
           <entry key="JavaScript" value="9" />
           <entry key="RNG Compact" value="1" />
-          <entry key="XML" value="15" />
+          <entry key="XML" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -106,14 +132,14 @@
           <entry key="dummy" value="1" />
           <entry key="java" value="2145" />
           <entry key="js" value="1" />
-          <entry key="jsp" value="1192" />
+          <entry key="jsp" value="1416" />
           <entry key="xml" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2145" />
-          <entry key="JSP" value="1192" />
+          <entry key="JSP" value="1416" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="68" />
@@ -127,66 +153,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jsp/CarAdd.jsp">
+        <entry file="file://$PROJECT_DIR$/web/jsp/CarList.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/layout/Car_Head.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/新建文件夹/BookStore-1/src/com/nf/bookstore1/web/BookUpdate.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web/CarAdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jsp/CarDetail.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web/CarDetail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web/CarSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="-307">
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -194,29 +164,47 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/jsp/CarUpdate.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/web/CarUpdate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="-213">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jsp/CarList.jsp">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="35" column="54" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="54" />
+            <state relative-caret-position="76">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web/CarList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jsp/CarDetail.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -228,13 +216,13 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework_TanShuo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework_TS" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -260,17 +248,19 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/decorators.xml" />
         <option value="$PROJECT_DIR$/web/layout/Cartpl.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/web/CarDel.java" />
         <option value="$PROJECT_DIR$/src/web/CarAdd.java" />
-        <option value="$PROJECT_DIR$/web/jsp/CarDetail.jsp" />
         <option value="$PROJECT_DIR$/src/web/CarDetail.java" />
         <option value="$PROJECT_DIR$/web/jsp/CarUpadate.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/CarAdd.jsp" />
         <option value="$PROJECT_DIR$/web/layout/Car_Head.jsp" />
-        <option value="$PROJECT_DIR$/web/jsp/CarList.jsp" />
         <option value="$PROJECT_DIR$/src/web/CarSearch.java" />
         <option value="$PROJECT_DIR$/src/web/CarUpdate.java" />
+        <option value="$PROJECT_DIR$/web/jsp/Car_Modal.jsp" />
+        <option value="$PROJECT_DIR$/web/jsp/CarList.jsp" />
+        <option value="$PROJECT_DIR$/web/jsp/CarDetail.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/jsp/CarUpdate.jsp" />
       </list>
     </option>
   </component>
@@ -299,9 +289,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -351,6 +338,12 @@
             </path>
             <path>
               <item name="CarStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarStore" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarStore" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -362,12 +355,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535179751221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535287452228" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../library/jquery-3.2.1.jar!/" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -573,17 +569,18 @@
       <workItem from="1535173892263" duration="3597000" />
       <workItem from="1535181170925" duration="168000" />
       <workItem from="1535199878550" duration="230000" />
+      <workItem from="1535269936345" duration="570000" />
+      <workItem from="1535282115913" duration="4597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33312000" />
+    <option name="totallyTimeSpent" value="38479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24810892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -594,7 +591,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27540985" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.61702126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.61639345" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -616,6 +613,40 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24810892" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27540985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.61639345" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Preview" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -624,13 +655,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dao/CarDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../BookStore-2-master/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-648" />
@@ -833,34 +857,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/layout/Cartpl.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/layout/CarBody.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/CarList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/新建文件夹/BookStore-1/src/com/nf/bookstore1/web/BookDel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -872,13 +868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-864">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/CarAdd.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -902,27 +891,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/CarDetail.jsp">
+    <entry file="file://$PROJECT_DIR$/src/web/CarSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        <state relative-caret-position="684">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/CarDetail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="485">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/CarSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -936,17 +918,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/CarAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/layout/CarBody.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/Car_Modal.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/CarList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/CarList.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="35" column="54" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="54" />
+        <state relative-caret-position="-307">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/CarDetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/CarUpdate.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state relative-caret-position="-213">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
